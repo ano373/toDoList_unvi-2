@@ -41,7 +41,7 @@ export default function App() {
 
   return (
     <View style={styles.container}>
-      <Text style={styles.heading}>To-Do List - Mahmoud Gamal Fareed</Text>
+      <Text style={styles.heading}>To-Do List - Andrew Amin sec(3)</Text>
       <TaskInput onAddTask={addOrEditTaskHandler} editTaskId={editTaskId} taskToEdit={taskToEdit} />
       <FlatList
         data={tasks}
@@ -58,7 +58,7 @@ const styles = StyleSheet.create({
   container: {
     flex: 1,
     padding: 40,
-    backgroundColor: "#fff",
+    backgroundColor: "#abdbe3",
   },
   heading: {
     fontSize: 24,

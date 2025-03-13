@@ -24,7 +24,7 @@ const styles = StyleSheet.create({
     alignItems: "center",
     padding: 15,
     marginVertical: 8,
-    backgroundColor: "#6200ea",
+    backgroundColor: "#abdbe3",
     borderRadius: 5,
   },
   taskText: {
