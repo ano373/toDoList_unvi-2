@@ -65,7 +65,7 @@ const styles = StyleSheet.create({
     fontWeight: "bold",
     textAlign: "center",
     marginBottom: 20,
-    color: "#6200ea",
+    color: "#000",
   },
 });
 
